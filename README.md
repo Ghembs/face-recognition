@@ -1,8 +1,5 @@
 # README #
 
-Face detection and recognition project. Assigned at the UniFi, Faculty of Engineering, as the project related to the **Image and Video Analysis** exam, 17/18.  
-Autors : Giovanni Bindi, Giuliano Gambacorta.
-
 ## Structure ##
 
 +	`config.ini` : configuration file, required by [configparser](https://docs.python.org/3/library/configparser.html) contains these params:
